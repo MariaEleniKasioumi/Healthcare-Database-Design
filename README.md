@@ -1,4 +1,4 @@
-# Healthcare-Database-Design
+# Healthcare Database Design
 
 - Designed an Entity-Relationship (ER) model for a healthcare system, modeling patient visits and clinical data  
 - Developed a relational schema with primary/foreign keys and many-to-many relationships  
